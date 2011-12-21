@@ -2,4 +2,5 @@ GIT command refrence:
 
 1.git push origin master
 Synchronize the local master files to the git server.
-2.
+2.git clone http://aaa/b.git
+Copy a remote git project from http protocols.
