@@ -1,0 +1,12 @@
+Overall
+1. Collect all the source code and compile into a intergrated one.
+2. Including all the tech document into this project.
+3. Make a detail tech plan for study.
+4. Maintain a english word list for new learning.
+
+Day 20130602
+1. Take care of the temporary residence permit card for car driver.
+2. Setup a development env for SSH for future plan.
+3. Start to consolidate the code resource.
+4. Keep an eye on the huntering market.
+5. Lead a happy life and enjoy it.
